@@ -1,0 +1,31 @@
+.img-logo{
+  width: 100%;
+  padding: 15px;
+}
+
+.img-main{
+  width: 100%;
+
+}
+
+.img-rs{
+  width: 100%;
+}
+
+.img-main-center{
+  width: 130%;
+  margin-left: -40px;
+
+}
+.div-img-main-center
+{
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.img-article{
+  float: left;
+  overflow: auto;
+  padding: 10px;
+  width: 35vw;
+}

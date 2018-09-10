@@ -1,0 +1,55 @@
+body{
+
+background: url(https://ak2.picdn.net/shutterstock/videos/18047482/thumb/1.jpg);
+background-attachment: fixed;
+background-size: 1280px;
+width: 96.5%;
+margin-left: 5px;
+}
+
+
+.logo-img{
+  width: 70%;
+}
+
+.menu{
+  background: rgba(190, 50, 50,0.8);
+}
+
+a{
+  color: white;
+}
+
+.menu a:hover{
+  background-color: white;
+  color: black;
+  font-style: oblique;
+}
+
+.img-favoritos{
+  padding: 8px;
+}
+
+.favoritos-title{
+  font-size: 25px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  color: white;
+}
+.comentario-post{
+  margin-top: 12px;
+  padding: 20px;
+}
+
+.comments{
+  margin-left: 20px;
+}
+
+.posts {
+  background: rgba(190, 214, 120,0.6);
+}
+
+.post-title{
+  color: white;
+}
